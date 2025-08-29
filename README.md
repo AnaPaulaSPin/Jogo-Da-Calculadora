@@ -59,7 +59,3 @@ O projeto foi criado com o propósito de **praticar lógica de programação em 
 * Linguagem: **C**
 * Ferramentas: **Compilador GCC / qualquer IDE de C**
 ---
-
-Se você quiser, Ana, eu posso já ir **fazendo o mesmo tipo de README detalhado pros outros 2 projetos**, deixando todos padronizados e bem explicativos pro GitHub.
-
-Quer que eu faça isso agora?
