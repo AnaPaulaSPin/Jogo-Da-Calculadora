@@ -1,4 +1,4 @@
-# Jogo Matemático Infantil - Projeto de Algoritmos em C
+# Jogo Matemático Infantil
 
 ## Descrição
 
