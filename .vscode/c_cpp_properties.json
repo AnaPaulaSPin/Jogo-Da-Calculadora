@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:/MinGW/include",                          // Caminho para os cabeçalhos do MinGW
+                "C:/MinGW/lib/gcc/mingw32/6.3.0/include",     // Caminho para os cabeçalhos GCC
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:/MinGW/bin/gcc.exe",         // Caminho para o GCC
+            "intelliSenseMode": "gcc-x64",                   // Modo do GCC para IntelliSense
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
